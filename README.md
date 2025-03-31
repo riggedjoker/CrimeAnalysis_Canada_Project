@@ -1,5 +1,5 @@
 # CrimeAnalysis_Canada_Project
-# This is a data science project for course : CS*2545
+<h2>CS*2545 Term Project based on Open Government Portal Data</h2>
 
 <h3>Authors</h3>
 
